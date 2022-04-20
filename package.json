@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/mathisonian/d3moji/issues"
   },
-  "homepage": "https://github.com/mathisonian/d3moji"
+  "homepage": "https://github.com/mathisonian/d3moji",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
 }
